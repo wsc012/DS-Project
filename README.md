@@ -1,4 +1,4 @@
-# Project repository for COGS 108: Data Science in Practice (Professor Shannon Ellis). 
+## Project repository for COGS 108: Data Science in Practice (Professor Shannon Ellis). 
 
 Objective: Determining the association between state crime rate and the majority party affiliation using data science techniques
 
